@@ -1,1 +1,1 @@
-mengedit isi file4.txt
+mengedit file4.txt
