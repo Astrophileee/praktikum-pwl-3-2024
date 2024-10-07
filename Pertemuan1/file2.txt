@@ -1,1 +1,1 @@
-lorem ipsum
+mengedit isi file2.txt
